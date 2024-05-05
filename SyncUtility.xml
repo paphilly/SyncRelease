@@ -1,0 +1,9 @@
+<service>
+    <id>SyncUtility</id>
+    <name>SyncUtility</name>
+    <description>Gift Card Sync Utility</description>
+    <env name="MYAPP_HOME" value="%BASE%"/>
+    <executable>java</executable>
+    <arguments>-jar C:\sync\Utility-Alpha.jar --spring.config.location=C:\sync\application.properties -Xmx1024m</arguments>
+    <logmode>rotate</logmode>
+</service>

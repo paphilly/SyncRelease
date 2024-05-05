@@ -1,0 +1,1 @@
+curl -o C:\sync\CentralToLocalSyncResponse.json http://localhost:8080/utility/centralToLocalSynccurl -o C:\sync\CentralToLocalSyncResponse.json http://localhost:8080/utility/centralToLocalSync

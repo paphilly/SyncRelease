@@ -1,0 +1,467 @@
+2022-01-17 17:30:53,635 DEBUG - Starting WinSW in the CLI mode
+2022-01-17 17:30:54,028 INFO  - Installing the service with id 'SyncUtility'
+2022-01-17 17:30:54,088 DEBUG - Completed. Exit code is 0
+2022-01-17 17:31:26,536 DEBUG - Starting WinSW in the service mode
+2022-01-17 17:31:26,604 INFO  - Starting java -jar C:\sync\Utility-Alpha.jar --spring.config.location=C:\sync\application.properties -Xmx1024m
+2022-01-17 17:31:26,812 INFO  - Started process 2188
+2022-01-17 17:31:26,815 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-01-19 11:46:27,769 INFO  - Stopping SyncUtility
+2022-01-19 11:46:27,770 DEBUG - ProcessKill 2188
+2022-01-19 11:46:27,948 INFO  - Found child process: 11252 Name: conhost.exe
+2022-01-19 11:46:27,984 INFO  - Stopping process 11252
+2022-01-19 11:46:27,987 INFO  - Send SIGINT 11252
+2022-01-19 11:46:27,988 WARN  - SIGINT to 11252 failed - Killing as fallback
+2022-01-19 11:46:27,991 INFO  - Stopping process 2188
+2022-01-19 11:46:27,993 INFO  - Send SIGINT 2188
+2022-01-19 11:46:27,994 WARN  - SIGINT to 2188 failed - Killing as fallback
+2022-01-19 11:46:27,997 INFO  - Finished SyncUtility
+2022-01-19 11:46:27,998 DEBUG - Completed. Exit code is 0
+2022-01-19 11:46:52,839 DEBUG - Starting WinSW in the CLI mode
+2022-01-19 11:46:53,116 INFO  - Uninstalling the service with id 'SyncUtility'
+2022-01-19 11:46:53,127 DEBUG - Completed. Exit code is 0
+2022-01-19 11:48:53,075 DEBUG - Starting WinSW in the CLI mode
+2022-01-19 11:48:53,364 INFO  - Installing the service with id 'SyncUtility'
+2022-01-19 11:48:53,382 DEBUG - Completed. Exit code is 0
+2022-01-19 11:55:02,348 DEBUG - Starting WinSW in the service mode
+2022-01-19 11:55:02,378 INFO  - Starting java -jar C:\sync\Utility-Alpha.jar --spring.config.location=C:\sync\application.properties -Xmx1024m
+2022-01-19 11:55:02,584 INFO  - Started process 4640
+2022-01-19 11:55:02,588 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-01-19 12:15:50,865 INFO  - Stopping SyncUtility
+2022-01-19 12:15:50,865 DEBUG - ProcessKill 4640
+2022-01-19 12:15:50,984 INFO  - Found child process: 8980 Name: conhost.exe
+2022-01-19 12:15:51,016 INFO  - Stopping process 8980
+2022-01-19 12:15:51,019 INFO  - Send SIGINT 8980
+2022-01-19 12:15:51,021 WARN  - SIGINT to 8980 failed - Killing as fallback
+2022-01-19 12:15:51,023 INFO  - Stopping process 4640
+2022-01-19 12:15:51,026 INFO  - Send SIGINT 4640
+2022-01-19 12:15:51,026 WARN  - SIGINT to 4640 failed - Killing as fallback
+2022-01-19 12:15:51,029 INFO  - Finished SyncUtility
+2022-01-19 12:15:51,030 DEBUG - Completed. Exit code is 0
+2022-01-19 12:15:55,002 DEBUG - Starting WinSW in the service mode
+2022-01-19 12:15:55,032 INFO  - Starting java -jar C:\sync\Utility-Alpha.jar --spring.config.location=C:\sync\application.properties -Xmx1024m
+2022-01-19 12:15:55,238 INFO  - Started process 4104
+2022-01-19 12:15:55,242 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-01-19 16:08:30,059 INFO  - Stopping SyncUtility
+2022-01-19 16:08:30,059 DEBUG - ProcessKill 4104
+2022-01-19 16:08:30,142 INFO  - Found child process: 10808 Name: conhost.exe
+2022-01-19 16:08:30,174 INFO  - Stopping process 10808
+2022-01-19 16:08:30,177 INFO  - Send SIGINT 10808
+2022-01-19 16:08:30,179 WARN  - SIGINT to 10808 failed - Killing as fallback
+2022-01-19 16:08:30,181 INFO  - Stopping process 4104
+2022-01-19 16:08:30,185 INFO  - Send SIGINT 4104
+2022-01-19 16:08:30,185 WARN  - SIGINT to 4104 failed - Killing as fallback
+2022-01-19 16:08:30,188 INFO  - Finished SyncUtility
+2022-01-19 16:08:30,189 DEBUG - Completed. Exit code is 0
+2022-01-19 16:08:31,566 DEBUG - Starting WinSW in the service mode
+2022-01-19 16:08:31,596 INFO  - Starting java -jar C:\sync\Utility-Alpha.jar --spring.config.location=C:\sync\application.properties -Xmx1024m
+2022-01-19 16:08:31,796 INFO  - Started process 11756
+2022-01-19 16:08:31,800 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-01-30 22:23:51,410 INFO  - Stopping SyncUtility
+2022-01-30 22:23:51,413 DEBUG - ProcessKill 11756
+2022-01-30 22:23:51,548 INFO  - Found child process: 5372 Name: conhost.exe
+2022-01-30 22:23:51,584 INFO  - Stopping process 5372
+2022-01-30 22:23:51,587 INFO  - Send SIGINT 5372
+2022-01-30 22:23:51,590 WARN  - SIGINT to 5372 failed - Killing as fallback
+2022-01-30 22:23:51,592 INFO  - Stopping process 11756
+2022-01-30 22:23:51,596 INFO  - Send SIGINT 11756
+2022-01-30 22:23:51,596 WARN  - SIGINT to 11756 failed - Killing as fallback
+2022-01-30 22:23:51,601 INFO  - Finished SyncUtility
+2022-01-30 22:23:51,602 DEBUG - Completed. Exit code is 0
+2022-01-30 22:24:35,615 DEBUG - Starting WinSW in the CLI mode
+2022-01-30 22:24:35,922 INFO  - Uninstalling the service with id 'SyncUtility'
+2022-01-30 22:24:35,936 DEBUG - Completed. Exit code is 0
+2022-01-30 22:25:50,066 DEBUG - Starting WinSW in the CLI mode
+2022-01-30 22:25:50,323 INFO  - Installing the service with id 'SyncUtility'
+2022-01-30 22:25:50,344 DEBUG - Completed. Exit code is 0
+2022-01-30 22:26:15,845 DEBUG - Starting WinSW in the service mode
+2022-01-30 22:26:15,876 INFO  - Starting java -jar C:\sync\Utility-Alpha.jar --spring.config.location=C:\sync\application.properties -Xmx1024m
+2022-01-30 22:26:16,082 INFO  - Started process 7404
+2022-01-30 22:26:16,086 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-02-01 19:57:32,838 DEBUG - Starting WinSW in the service mode
+2022-02-01 19:57:32,994 INFO  - Starting java -jar C:\sync\Utility-Alpha.jar --spring.config.location=C:\sync\application.properties -Xmx1024m
+2022-02-01 19:57:33,056 INFO  - Started process 4444
+2022-02-01 19:57:33,056 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-04-24 17:00:52,335 INFO  - Stopping SyncUtility
+2022-04-24 17:00:52,351 INFO  - Finished SyncUtility
+2022-04-24 17:00:52,382 DEBUG - Completed. Exit code is 0
+2022-04-24 17:01:43,650 DEBUG - Starting WinSW in the service mode
+2022-04-24 17:01:43,728 INFO  - Starting java -jar C:\sync\Utility-Alpha.jar --spring.config.location=C:\sync\application.properties -Xmx1024m
+2022-04-24 17:01:43,775 INFO  - Started process 4804
+2022-04-24 17:01:43,775 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-06-19 21:16:09,449 INFO  - Stopping SyncUtility
+2022-06-19 21:16:09,465 INFO  - Finished SyncUtility
+2022-06-19 21:16:09,496 DEBUG - Completed. Exit code is 0
+2022-06-19 21:17:23,944 DEBUG - Starting WinSW in the service mode
+2022-06-19 21:17:24,273 INFO  - Starting java -jar C:\sync\Utility-Alpha.jar --spring.config.location=C:\sync\application.properties -Xmx1024m
+2022-06-19 21:17:24,351 INFO  - Started process 5700
+2022-06-19 21:17:24,397 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-06-28 09:51:08,785 DEBUG - Starting WinSW in the service mode
+2022-06-28 09:51:08,848 DEBUG - Completed. Exit code is 0
+2022-06-28 09:51:28,495 DEBUG - Starting WinSW in the service mode
+2022-06-28 09:51:28,589 INFO  - Starting java -jar C:\sync\Utility-Alpha.jar --spring.config.location=C:\sync\application.properties -Xmx1024m
+2022-06-28 09:51:28,651 INFO  - Started process 4620
+2022-06-28 09:51:28,651 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-06-28 09:54:46,025 DEBUG - Starting WinSW in the service mode
+2022-06-28 09:54:46,268 INFO  - Starting java -jar C:\sync\Utility-Alpha.jar --spring.config.location=C:\sync\application.properties -Xmx1024m
+2022-06-28 09:54:46,330 INFO  - Started process 4560
+2022-06-28 09:54:46,346 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-07-24 21:44:41,652 INFO  - Stopping SyncUtility
+2022-07-24 21:44:41,667 INFO  - Finished SyncUtility
+2022-07-24 21:44:41,699 DEBUG - Completed. Exit code is 0
+2022-07-24 21:45:33,804 DEBUG - Starting WinSW in the service mode
+2022-07-24 21:45:33,866 INFO  - Starting java -jar C:\sync\Utility-Alpha.jar --spring.config.location=C:\sync\application.properties -Xmx1024m
+2022-07-24 21:45:33,913 INFO  - Started process 4784
+2022-07-24 21:45:33,913 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-07-25 09:49:32,547 INFO  - Stopping SyncUtility
+2022-07-25 09:49:32,547 DEBUG - ProcessKill 4784
+2022-07-25 09:49:32,656 WARN  - Failed to locate children of the process with PID=4784. Child processes won't be terminated
+System.Runtime.InteropServices.COMException (0x80040154): Class not registered
+
+   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.Util.ProcessHelper.GetChildPids(Int32 pid)
+2022-07-25 09:49:32,672 INFO  - Stopping process 4784
+2022-07-25 09:49:32,687 INFO  - Send SIGINT 4784
+2022-07-25 09:49:32,812 INFO  - SIGINT to 4784 successful
+2022-07-25 09:49:32,828 INFO  - Finished SyncUtility
+2022-07-25 09:49:32,828 DEBUG - Completed. Exit code is 0
+2022-07-25 09:50:00,925 DEBUG - Starting WinSW in the service mode
+2022-07-25 09:50:01,066 INFO  - Starting java -jar C:\sync\Utility-Alpha.jar --spring.config.location=C:\sync\application.properties -Xmx1024m
+2022-07-25 09:50:01,113 INFO  - Started process 5008
+2022-07-25 09:50:01,113 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-09-10 15:13:14,314 DEBUG - Starting WinSW in the service mode
+2022-09-10 15:13:14,377 DEBUG - Completed. Exit code is 0
+2022-09-10 15:13:34,620 DEBUG - Starting WinSW in the service mode
+2022-09-10 15:13:34,699 INFO  - Starting java -jar C:\sync\Utility-Alpha.jar --spring.config.location=C:\sync\application.properties -Xmx1024m
+2022-09-10 15:13:34,730 INFO  - Started process 4960
+2022-09-10 15:13:34,730 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-09-10 15:14:11,930 INFO  - Stopping SyncUtility
+2022-09-10 15:14:11,930 DEBUG - ProcessKill 4960
+2022-09-10 15:14:12,115 WARN  - Failed to locate children of the process with PID=4960. Child processes won't be terminated
+System.Runtime.InteropServices.COMException (0x80040154): Class not registered
+
+   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.Util.ProcessHelper.GetChildPids(Int32 pid)
+2022-09-10 15:14:12,147 INFO  - Stopping process 4960
+2022-09-10 15:14:12,147 INFO  - Send SIGINT 4960
+2022-09-10 15:14:12,240 INFO  - SIGINT to 4960 successful
+2022-09-10 15:14:12,240 INFO  - Finished SyncUtility
+2022-09-10 15:14:12,240 DEBUG - Completed. Exit code is 0
+2022-09-10 15:14:39,150 DEBUG - Starting WinSW in the service mode
+2022-09-10 15:14:39,273 INFO  - Starting java -jar C:\sync\Utility-Alpha.jar --spring.config.location=C:\sync\application.properties -Xmx1024m
+2022-09-10 15:14:39,328 INFO  - Started process 4628
+2022-09-10 15:14:39,334 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-09-17 14:03:00,247 DEBUG - Starting WinSW in the service mode
+2022-09-17 14:03:00,294 DEBUG - Completed. Exit code is 0
+2022-09-17 14:03:21,055 DEBUG - Starting WinSW in the service mode
+2022-09-17 14:03:21,148 INFO  - Starting java -jar C:\sync\Utility-Alpha.jar --spring.config.location=C:\sync\application.properties -Xmx1024m
+2022-09-17 14:03:21,195 INFO  - Started process 4536
+2022-09-17 14:03:21,195 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-09-17 14:49:11,344 INFO  - Stopping SyncUtility
+2022-09-17 14:49:11,344 DEBUG - ProcessKill 4536
+2022-09-17 14:49:11,516 WARN  - Failed to locate children of the process with PID=4536. Child processes won't be terminated
+System.Runtime.InteropServices.COMException (0x80040154): Class not registered
+
+   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.Util.ProcessHelper.GetChildPids(Int32 pid)
+2022-09-17 14:49:11,547 INFO  - Stopping process 4536
+2022-09-17 14:49:11,547 INFO  - Send SIGINT 4536
+2022-09-17 14:49:11,626 INFO  - SIGINT to 4536 successful
+2022-09-17 14:49:11,626 INFO  - Finished SyncUtility
+2022-09-17 14:49:11,626 DEBUG - Completed. Exit code is 0
+2022-09-17 14:49:36,792 DEBUG - Starting WinSW in the service mode
+2022-09-17 14:49:36,964 INFO  - Starting java -jar C:\sync\Utility-Alpha.jar --spring.config.location=C:\sync\application.properties -Xmx1024m
+2022-09-17 14:49:37,011 INFO  - Started process 4684
+2022-09-17 14:49:37,029 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-10-26 18:10:16,677 DEBUG - Starting WinSW in the service mode
+2022-10-26 18:10:16,771 DEBUG - Completed. Exit code is 0
+2022-10-26 18:10:41,306 DEBUG - Starting WinSW in the service mode
+2022-10-26 18:10:41,431 INFO  - Starting java -jar C:\sync\Utility-Alpha.jar --spring.config.location=C:\sync\application.properties -Xmx1024m
+2022-10-26 18:10:41,463 INFO  - Started process 4592
+2022-10-26 18:10:41,478 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-11-26 22:53:57,331 INFO  - Stopping SyncUtility
+2022-11-26 22:53:57,362 INFO  - Finished SyncUtility
+2022-11-26 22:53:57,394 DEBUG - Completed. Exit code is 0
+2022-11-26 22:54:32,777 DEBUG - Starting WinSW in the service mode
+2022-11-26 22:54:32,840 INFO  - Starting java -jar C:\sync\Utility-Alpha.jar --spring.config.location=C:\sync\application.properties -Xmx1024m
+2022-11-26 22:54:32,886 INFO  - Started process 4628
+2022-11-26 22:54:32,886 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-12-28 22:00:06,477 INFO  - Stopping SyncUtility
+2022-12-28 22:00:06,493 INFO  - Finished SyncUtility
+2022-12-28 22:00:06,508 DEBUG - Completed. Exit code is 0
+2022-12-28 22:01:03,096 DEBUG - Starting WinSW in the service mode
+2022-12-28 22:01:03,143 DEBUG - Completed. Exit code is 0
+2022-12-28 22:01:28,646 DEBUG - Starting WinSW in the service mode
+2022-12-28 22:01:28,740 INFO  - Starting java -jar C:\sync\Utility-Alpha.jar --spring.config.location=C:\sync\application.properties -Xmx1024m
+2022-12-28 22:01:28,803 INFO  - Started process 4832
+2022-12-28 22:01:28,818 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-12-28 22:02:05,953 INFO  - Stopping SyncUtility
+2022-12-28 22:02:05,953 DEBUG - ProcessKill 4832
+2022-12-28 22:02:06,109 WARN  - Failed to locate children of the process with PID=4832. Child processes won't be terminated
+System.Runtime.InteropServices.COMException (0x8007045B): A system shutdown is in progress.
+
+   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.Util.ProcessHelper.GetChildPids(Int32 pid)
+2022-12-28 22:02:06,125 INFO  - Stopping process 4832
+2022-12-28 22:02:06,125 INFO  - Send SIGINT 4832
+2022-12-28 22:02:06,203 INFO  - SIGINT to 4832 successful
+2022-12-28 22:02:06,203 INFO  - Finished SyncUtility
+2022-12-28 22:02:06,203 DEBUG - Completed. Exit code is 0
+2022-12-28 22:02:31,643 DEBUG - Starting WinSW in the service mode
+2022-12-28 22:02:31,759 INFO  - Starting java -jar C:\sync\Utility-Alpha.jar --spring.config.location=C:\sync\application.properties -Xmx1024m
+2022-12-28 22:02:31,806 INFO  - Started process 4588
+2022-12-28 22:02:31,806 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2023-01-20 10:02:08,685 INFO  - Stopping SyncUtility
+2023-01-20 10:02:08,701 DEBUG - ProcessKill 4588
+2023-01-20 10:02:08,982 WARN  - Failed to locate children of the process with PID=4588. Child processes won't be terminated
+System.Runtime.InteropServices.COMException (0x8007045B): A system shutdown is in progress.
+
+   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.Util.ProcessHelper.GetChildPids(Int32 pid)
+2023-01-20 10:02:09,029 INFO  - Stopping process 4588
+2023-01-20 10:02:09,029 INFO  - Send SIGINT 4588
+2023-01-20 10:02:09,201 INFO  - SIGINT to 4588 successful
+2023-01-20 10:02:09,201 INFO  - Finished SyncUtility
+2023-01-20 10:02:09,201 DEBUG - Completed. Exit code is 0
+2023-01-20 10:02:42,002 DEBUG - Starting WinSW in the service mode
+2023-01-20 10:02:42,185 INFO  - Starting java -jar C:\sync\Utility-Alpha.jar --spring.config.location=C:\sync\application.properties -Xmx1024m
+2023-01-20 10:02:42,227 INFO  - Started process 4928
+2023-01-20 10:02:42,242 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2023-03-25 17:02:25,773 INFO  - Stopping SyncUtility
+2023-03-25 17:02:25,804 INFO  - Finished SyncUtility
+2023-03-25 17:02:25,882 DEBUG - Completed. Exit code is 0
+2023-03-25 17:02:58,003 DEBUG - Starting WinSW in the service mode
+2023-03-25 17:02:58,471 INFO  - Starting java -jar C:\sync\Utility-Alpha.jar --spring.config.location=C:\sync\application.properties -Xmx1024m
+2023-03-25 17:02:58,518 INFO  - Started process 5840
+2023-03-25 17:02:58,549 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2023-03-25 22:15:44,744 INFO  - Stopping SyncUtility
+2023-03-25 22:15:44,744 DEBUG - ProcessKill 5840
+2023-03-25 22:15:44,978 WARN  - Failed to locate children of the process with PID=5840. Child processes won't be terminated
+System.Runtime.InteropServices.COMException (0x8007045B): A system shutdown is in progress.
+
+   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.Util.ProcessHelper.GetChildPids(Int32 pid)
+2023-03-25 22:15:45,009 INFO  - Stopping process 5840
+2023-03-25 22:15:45,009 INFO  - Send SIGINT 5840
+2023-03-25 22:15:45,087 INFO  - SIGINT to 5840 successful
+2023-03-25 22:15:45,087 INFO  - Finished SyncUtility
+2023-03-25 22:15:45,087 DEBUG - Completed. Exit code is 0
+2023-03-25 22:16:11,397 DEBUG - Starting WinSW in the service mode
+2023-03-25 22:16:11,491 INFO  - Starting java -jar C:\sync\Utility-Alpha.jar --spring.config.location=C:\sync\application.properties -Xmx1024m
+2023-03-25 22:16:11,506 INFO  - Started process 5024
+2023-03-25 22:16:11,522 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2023-03-28 10:51:11,501 DEBUG - Starting WinSW in the service mode
+2023-03-28 10:51:11,594 INFO  - Starting java -jar C:\sync\Utility-Alpha.jar --spring.config.location=C:\sync\application.properties -Xmx1024m
+2023-03-28 10:51:11,625 INFO  - Started process 4600
+2023-03-28 10:51:11,641 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2023-07-23 19:37:43,267 INFO  - Stopping SyncUtility
+2023-07-23 19:37:43,283 INFO  - Finished SyncUtility
+2023-07-23 19:37:43,314 DEBUG - Completed. Exit code is 0
+2023-07-23 19:38:19,056 DEBUG - Starting WinSW in the service mode
+2023-07-23 19:38:19,400 INFO  - Starting java -jar C:\sync\Utility-Alpha.jar --spring.config.location=C:\sync\application.properties -Xmx1024m
+2023-07-23 19:38:19,463 INFO  - Started process 5776
+2023-07-23 19:38:19,478 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2023-08-01 18:48:41,580 INFO  - Stopping SyncUtility
+2023-08-01 18:48:41,580 DEBUG - ProcessKill 5776
+2023-08-01 18:48:41,924 WARN  - Failed to locate children of the process with PID=5776. Child processes won't be terminated
+System.Runtime.InteropServices.COMException (0x8007045B): A system shutdown is in progress.
+
+   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.Util.ProcessHelper.GetChildPids(Int32 pid)
+2023-08-01 18:48:41,971 INFO  - Stopping process 5776
+2023-08-01 18:48:41,987 INFO  - Send SIGINT 5776
+2023-08-01 18:48:42,143 INFO  - SIGINT to 5776 successful
+2023-08-01 18:48:42,143 INFO  - Finished SyncUtility
+2023-08-01 18:48:42,143 DEBUG - Completed. Exit code is 0
+2023-08-01 18:49:14,204 DEBUG - Starting WinSW in the service mode
+2023-08-01 18:49:14,286 INFO  - Starting java -jar C:\sync\Utility-Alpha.jar --spring.config.location=C:\sync\application.properties -Xmx1024m
+2023-08-01 18:49:14,328 INFO  - Started process 4804
+2023-08-01 18:49:14,343 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2023-08-23 11:32:00,413 INFO  - Stopping SyncUtility
+2023-08-23 11:32:00,429 DEBUG - ProcessKill 4804
+2023-08-23 11:32:00,757 WARN  - Failed to locate children of the process with PID=4804. Child processes won't be terminated
+System.Runtime.InteropServices.COMException (0x8007045B): A system shutdown is in progress.
+
+   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.Util.ProcessHelper.GetChildPids(Int32 pid)
+2023-08-23 11:32:00,804 INFO  - Stopping process 4804
+2023-08-23 11:32:00,804 INFO  - Send SIGINT 4804
+2023-08-23 11:32:01,054 INFO  - SIGINT to 4804 successful
+2023-08-23 11:32:01,054 INFO  - Finished SyncUtility
+2023-08-23 11:32:01,069 DEBUG - Completed. Exit code is 0
+2023-08-23 11:32:31,065 DEBUG - Starting WinSW in the service mode
+2023-08-23 11:32:31,189 INFO  - Starting java -jar C:\sync\Utility-Alpha.jar --spring.config.location=C:\sync\application.properties -Xmx1024m
+2023-08-23 11:32:31,241 INFO  - Started process 4628
+2023-08-23 11:32:31,253 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2023-09-08 18:33:37,998 INFO  - Stopping SyncUtility
+2023-09-08 18:33:37,998 DEBUG - ProcessKill 4628
+2023-09-08 18:33:38,264 WARN  - Failed to locate children of the process with PID=4628. Child processes won't be terminated
+System.Runtime.InteropServices.COMException (0x8007045B): A system shutdown is in progress.
+
+   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.Util.ProcessHelper.GetChildPids(Int32 pid)
+2023-09-08 18:33:38,295 INFO  - Stopping process 4628
+2023-09-08 18:33:38,295 INFO  - Send SIGINT 4628
+2023-09-08 18:33:38,451 INFO  - SIGINT to 4628 successful
+2023-09-08 18:33:38,451 INFO  - Finished SyncUtility
+2023-09-08 18:33:38,467 DEBUG - Completed. Exit code is 0
+2023-09-08 18:35:03,992 DEBUG - Starting WinSW in the service mode
+2023-09-08 18:35:04,320 INFO  - Starting java -jar C:\sync\Utility-Alpha.jar --spring.config.location=C:\sync\application.properties -Xmx1024m
+2023-09-08 18:35:04,382 INFO  - Started process 5868
+2023-09-08 18:35:04,398 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2023-10-04 10:15:11,093 INFO  - Stopping SyncUtility
+2023-10-04 10:15:11,093 INFO  - Finished SyncUtility
+2023-10-04 10:15:11,124 DEBUG - Completed. Exit code is 0
+2023-10-04 10:16:01,593 DEBUG - Starting WinSW in the service mode
+2023-10-04 10:16:01,744 INFO  - Starting java -jar C:\sync\Utility-Alpha.jar --spring.config.location=C:\sync\application.properties -Xmx1024m
+2023-10-04 10:16:01,791 INFO  - Started process 4496
+2023-10-04 10:16:01,807 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2023-11-27 12:45:20,141 INFO  - Stopping SyncUtility
+2023-11-27 12:45:20,157 INFO  - Finished SyncUtility
+2023-11-27 12:45:20,188 DEBUG - Completed. Exit code is 0
+2023-11-27 12:46:04,477 DEBUG - Starting WinSW in the service mode
+2023-11-27 12:46:04,711 INFO  - Starting java -jar C:\sync\Utility-Alpha.jar --spring.config.location=C:\sync\application.properties -Xmx1024m
+2023-11-27 12:46:04,758 INFO  - Started process 5424
+2023-11-27 12:46:04,774 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2023-12-17 20:32:03,114 INFO  - Stopping SyncUtility
+2023-12-17 20:32:03,114 DEBUG - ProcessKill 5424
+2023-12-17 20:32:03,568 WARN  - Failed to locate children of the process with PID=5424. Child processes won't be terminated
+System.Runtime.InteropServices.COMException (0x8007045B): A system shutdown is in progress.
+
+   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.Util.ProcessHelper.GetChildPids(Int32 pid)
+2023-12-17 20:32:03,614 INFO  - Stopping process 5424
+2023-12-17 20:32:03,614 INFO  - Process 5424 is already stopped
+System.ArgumentException: Process with an Id of 5424 is not running.
+   at System.Diagnostics.Process.GetProcessById(Int32 processId, String machineName)
+   at winsw.Util.ProcessHelper.StopProcess(Int32 pid, TimeSpan stopTimeout)
+2023-12-17 20:32:03,630 INFO  - Finished SyncUtility
+2023-12-17 20:32:03,630 DEBUG - Completed. Exit code is 0
+2023-12-17 20:32:38,865 DEBUG - Starting WinSW in the service mode
+2023-12-17 20:32:38,943 INFO  - Starting java -jar C:\sync\Utility-Alpha.jar --spring.config.location=C:\sync\application.properties -Xmx1024m
+2023-12-17 20:32:38,990 INFO  - Started process 5008
+2023-12-17 20:32:39,006 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2023-12-20 14:47:55,077 INFO  - Stopping SyncUtility
+2023-12-20 14:47:55,077 DEBUG - ProcessKill 5008
+2023-12-20 14:47:55,264 WARN  - Failed to locate children of the process with PID=5008. Child processes won't be terminated
+System.Runtime.InteropServices.COMException (0x8007045B): A system shutdown is in progress.
+
+   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.Util.ProcessHelper.GetChildPids(Int32 pid)
+2023-12-20 14:47:55,295 INFO  - Stopping process 5008
+2023-12-20 14:47:55,311 INFO  - Send SIGINT 5008
+2023-12-20 14:47:55,452 INFO  - SIGINT to 5008 successful
+2023-12-20 14:47:55,467 INFO  - Finished SyncUtility
+2023-12-20 14:47:55,467 DEBUG - Completed. Exit code is 0
+2023-12-20 14:48:29,705 DEBUG - Starting WinSW in the service mode
+2023-12-20 14:48:29,815 INFO  - Starting java -jar C:\sync\Utility-Alpha.jar --spring.config.location=C:\sync\application.properties -Xmx1024m
+2023-12-20 14:48:29,846 INFO  - Started process 4640
+2023-12-20 14:48:29,862 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2023-12-23 17:47:27,058 INFO  - Stopping SyncUtility
+2023-12-23 17:47:27,074 DEBUG - ProcessKill 4640
+2023-12-23 17:47:27,199 WARN  - Failed to locate children of the process with PID=4640. Child processes won't be terminated
+System.Runtime.InteropServices.COMException (0x8007045B): A system shutdown is in progress.
+
+   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.Util.ProcessHelper.GetChildPids(Int32 pid)
+2023-12-23 17:47:27,246 INFO  - Stopping process 4640
+2023-12-23 17:47:27,246 INFO  - Send SIGINT 4640
+2023-12-23 17:47:27,246 WARN  - SIGINT to 4640 failed - Killing as fallback
+2023-12-23 17:47:27,261 WARN  - Ignoring exception from killing process because it has exited
+System.ComponentModel.Win32Exception: Access is denied
+   at System.Diagnostics.Process.Kill()
+   at winsw.Util.ProcessHelper.StopProcess(Int32 pid, TimeSpan stopTimeout)
+2023-12-23 17:47:27,261 INFO  - Finished SyncUtility
+2023-12-23 17:47:27,277 DEBUG - Completed. Exit code is 0
+2023-12-23 17:48:06,071 DEBUG - Starting WinSW in the service mode
+2023-12-23 17:48:06,164 INFO  - Starting java -jar C:\sync\Utility-Alpha.jar --spring.config.location=C:\sync\application.properties -Xmx1024m
+2023-12-23 17:48:06,211 INFO  - Started process 4592
+2023-12-23 17:48:06,227 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2024-02-09 17:08:34,272 INFO  - Stopping SyncUtility
+2024-02-09 17:08:34,319 INFO  - Finished SyncUtility
+2024-02-09 17:08:34,428 DEBUG - Completed. Exit code is 0
+2024-02-09 17:09:23,971 DEBUG - Starting WinSW in the service mode
+2024-02-09 17:09:24,189 INFO  - Starting java -jar C:\sync\Utility-Alpha.jar --spring.config.location=C:\sync\application.properties -Xmx1024m
+2024-02-09 17:09:24,236 INFO  - Started process 5584
+2024-02-09 17:09:24,252 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2024-02-11 22:22:02,080 INFO  - Stopping SyncUtility
+2024-02-11 22:22:02,080 DEBUG - ProcessKill 5584
+2024-02-11 22:22:02,330 WARN  - Failed to locate children of the process with PID=5584. Child processes won't be terminated
+System.Runtime.InteropServices.COMException (0x8007045B): A system shutdown is in progress.
+
+   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.Util.ProcessHelper.GetChildPids(Int32 pid)
+2024-02-11 22:22:02,361 INFO  - Stopping process 5584
+2024-02-11 22:22:02,361 INFO  - Send SIGINT 5584
+2024-02-11 22:22:02,455 INFO  - SIGINT to 5584 successful
+2024-02-11 22:22:02,455 INFO  - Finished SyncUtility
+2024-02-11 22:22:02,455 DEBUG - Completed. Exit code is 0
+2024-02-11 22:22:38,851 DEBUG - Starting WinSW in the service mode
+2024-02-11 22:22:38,939 INFO  - Starting java -jar C:\sync\Utility-Alpha.jar --spring.config.location=C:\sync\application.properties -Xmx1024m
+2024-02-11 22:22:39,002 INFO  - Started process 564
+2024-02-11 22:22:39,006 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2024-04-05 16:22:01,029 DEBUG - Starting WinSW in the service mode
+2024-04-05 16:22:01,092 DEBUG - Completed. Exit code is 0
+2024-04-05 16:22:19,979 DEBUG - Starting WinSW in the service mode
+2024-04-05 16:22:20,073 INFO  - Starting java -jar C:\sync\Utility-Alpha.jar --spring.config.location=C:\sync\application.properties -Xmx1024m
+2024-04-05 16:22:20,136 INFO  - Started process 4396
+2024-04-05 16:22:20,136 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2024-04-12 09:31:01,911 DEBUG - Starting WinSW in the service mode
+2024-04-12 09:31:01,989 DEBUG - Completed. Exit code is 0
+2024-04-12 09:31:21,866 DEBUG - Starting WinSW in the service mode
+2024-04-12 09:31:21,976 INFO  - Starting java -jar C:\sync\Utility-Alpha.jar --spring.config.location=C:\sync\application.properties -Xmx1024m
+2024-04-12 09:31:22,054 INFO  - Started process 5072
+2024-04-12 09:31:22,070 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2024-05-04 09:35:59,576 DEBUG - Starting WinSW in the service mode
+2024-05-04 09:36:35,676 DEBUG - Starting WinSW in the service mode

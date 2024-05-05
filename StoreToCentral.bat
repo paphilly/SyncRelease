@@ -1,0 +1,1 @@
+curl -o C:\sync\StoreToCentralSyncResponse.json http://localhost:8080/utility/localToCentralSync

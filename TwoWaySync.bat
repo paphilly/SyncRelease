@@ -1,0 +1,1 @@
+curl -o C:\sync\TwoWaySyncResponse.json http://localhost:8080/utility/sync

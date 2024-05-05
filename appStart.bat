@@ -1,0 +1,1 @@
+start javaw -jar C:\sync\Utility-Alpha.jar --spring.config.location=C:\sync\application.properties -Xmx1024m
